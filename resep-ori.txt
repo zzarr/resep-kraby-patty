@@ -3,3 +3,5 @@ Resep ori
 2. bawang
 3. daging
 4. saus
+5. mayo
+6. sayur kol
